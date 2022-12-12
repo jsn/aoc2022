@@ -3,6 +3,7 @@
         org.clojure/core.match {:mvn/version "1.0.0"}
         org.clojure/math.combinatorics {:mvn/version "0.1.6"}
         org.clojure/core.logic {:mvn/version "1.0.0"}
+        astar-search/astar-search {:mvn/version "0.2"}
         com.taoensso/truss {:mvn/version "1.7.2"}}
  :aliases
   {:neil {:project {:name jsn/aoc2017}}
